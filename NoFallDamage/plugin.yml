@@ -1,0 +1,5 @@
+name: NoFallDamage
+main: net.insxnity.nofalldamage.Main
+load: STARTUP
+version: 1.0
+author: Insxnity

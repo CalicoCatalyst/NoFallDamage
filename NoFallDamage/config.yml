@@ -1,0 +1,12 @@
+############################################################
+# +------------------------------------------------------+ #
+# |              NoFallDamage Main Config                | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Should we enable the plugin?
+enable: true
+
+# What Permission should the player need?
+# Default: nofalldamage.prevent
+permission: 'nofalldamage.prevent'
